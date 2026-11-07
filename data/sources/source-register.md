@@ -56,3 +56,43 @@
 - Source type: Official government press release
 - Intended use: Land seeding, Aadhaar-bank linking, eKYC and beneficiary verification
 - Status: Recent supporting evidence - cross-check against scheme guidelines
+
+## Source 8: Amendment to Paragraph 8.1 of Operational Guidelines
+
+- Publisher: Department of Agriculture and Farmers Welfare
+- URL: https://pmkisan.gov.in/Documents/AmendmenttoOG.pdf
+- Local filename: amendment-operational-guidelines.pdf
+- Document reference date: 11 March 2019
+- Publication date: Not stated in document
+- Pages: 1
+- Source type: Official government PDF
+- Affected clause: Paragraph 8.1
+- Intended use: Historical Aadhaar verification and payment implementation rules
+- Geographic scope: Nationwide
+- Status: Content inspected - historical amendment; current applicability requires verification
+
+## Source 9: Clarification on Joint Holding
+
+- Publisher: Department of Agriculture and Farmers Welfare
+- URL: https://pmkisan.gov.in/Documents/clarification_on_OGs_of_PMKISAN.pdf
+- Local filename: clarification-operational-guidelines.pdf
+- Publication date: Not stated in document
+- Pages: 1
+- Source type: Official government PDF
+- Affected clause: Paragraph 3.2
+- Intended use: Interpretation of joint landholding within the same family
+- Geographic scope: Nationwide
+- Status: Content inspected - clarification; current applicability requires verification
+
+## Source 10: Addendum for Manipur
+
+- Publisher: Department of Agriculture and Farmers Welfare
+- URL: https://pmkisan.gov.in/Documents/OperationalGuidelinesManipur.pdf
+- Local filename: manipur-operational-guidelines.pdf
+- Publication date: Not stated in document
+- Pages: 1
+- Source type: Official government PDF
+- Affected clause: New paragraph 3.5.1
+- Intended use: Alternative land-cultivation certification for qualifying tribal families on community-held land
+- Geographic scope: Manipur only
+- Status: Content inspected - state-specific addendum; must not be applied nationally
