@@ -1,3 +1,6 @@
 sentence-transformers
 numpy
 scikit-learn
+chromadb
+python-dotenv
+groq

@@ -1,0 +1,45 @@
+{
+    "source_id": 8,
+    "source_file": "amendment-operational-guidelines.pdf",
+    "source_relative_path": "amendment-operational-guidelines.pdf",
+    "source_metadata": {
+        "source_id": 8,
+        "title": "Amendment to Paragraph 8.1 of Operational Guidelines",
+        "publisher": "Department of Agriculture and Farmers Welfare",
+        "source_url": "https://fw.pmkisan.gov.in/Documents/Amendment%20to%20OG-converted.pdf",
+        "local_filename": "amendment-operational-guidelines.pdf",
+        "local_relative_path": "amendment-operational-guidelines.pdf",
+        "document_scope": "national",
+        "jurisdiction": "India",
+        "document_date": null,
+        "document_reference_date": "2019-03-11",
+        "publication_date": null,
+        "affected_clauses": [
+            "8.1"
+        ],
+        "metadata_status": "Content inspected; historical amendment; current applicability requires verification"
+    },
+    "document_scope": "national",
+    "jurisdiction": "India",
+    "total_pages": 1,
+    "pdf_metadata": {
+        "format": "PDF 1.7",
+        "title": "Microsoft Word - SKDACNotes 3.doc",
+        "author": "Anand",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "Microsoft: Print To PDF",
+        "creationDate": "D:20190311152711+05'30'",
+        "modDate": "D:20190311152711+05'30'",
+        "trapped": "",
+        "encryption": null
+    },
+    "pages": [
+        {
+            "page_number": 1,
+            "raw_text": "AMENDMENT TO PARA 8.1 OF OPERATIONAL GUIDELINES OF  \nPM-KISAN SCHEME (AS ON 11.03.2019) \n \nPara 8.1 of the Operational Guidelines of PM-Kisan Scheme have further \nbeen amended and shall be read as follows: \n \n“The Scheme shall be implemented through an Aadhaar linked electronic \ndata base containing details of all members of the Small and Marginal \nlandholder farmers whose names appear in the land records. For transfer of \nthe first installment of financial benefits to the eligible farmers, Aadhaar \nnumber shall be collected for those beneficiaries where it is available and for \nothers alternate prescribed documents can be collected for identity \nverification purposes. It is to be ensured that all such beneficiaries shall \nhave to be compulsorily enrolled under Aadhaar, since payment of third \ninstallment onwards shall be done only on the basis of Aadhaar seeded data \nbase. However, Aadhaar number shall be compulsory for release of second \ninstallment onwards. States / UTs shall ensure that there is no duplication of \nthe payment transferred to eligible families. \n \nThe funds pertaining to income support benefit as well as administrative \ncharges shall be released from Government of India to the States’ \ndesignated account/mechanism.  The benefit shall be transferred by \nGovernment of India to the beneficiaries through a mechanism wherein \ndistrict wise beneficiaries’ lists shall be certified and uploaded by the \nStates/UTs and the funds will be electronically transferred via State Notional \nAccount [similar to Mahatma Gandhi National Rural Employment Guarantee \nScheme (MNREGS)] to the beneficiaries’ bank account on the basis of their \naccount numbers and IFSC code. However, where the states verify that \nAadhaar linked accounts are not the loan accounts of beneficiaries, the \nAadhaar linked payment system can be adopted. For ease of implementation \nthe States may consider assigning the job of sponsoring bank for the \nscheme to the same bank being used by concerned State for MGNREGS.” \n \n",
+            "cleaned_text": "AMENDMENT TO PARA 8.1 OF OPERATIONAL GUIDELINES OF\nPM-KISAN SCHEME (AS ON 11.03.2019)\n\nPara 8.1 of the Operational Guidelines of PM-Kisan Scheme have further\nbeen amended and shall be read as follows:\n\n“The Scheme shall be implemented through an Aadhaar linked electronic\ndata base containing details of all members of the Small and Marginal\nlandholder farmers whose names appear in the land records. For transfer of\nthe first installment of financial benefits to the eligible farmers, Aadhaar\nnumber shall be collected for those beneficiaries where it is available and for\nothers alternate prescribed documents can be collected for identity\nverification purposes. It is to be ensured that all such beneficiaries shall\nhave to be compulsorily enrolled under Aadhaar, since payment of third\ninstallment onwards shall be done only on the basis of Aadhaar seeded data\nbase. However, Aadhaar number shall be compulsory for release of second\ninstallment onwards. States / UTs shall ensure that there is no duplication of\nthe payment transferred to eligible families.\n\nThe funds pertaining to income support benefit as well as administrative\ncharges shall be released from Government of India to the States’\ndesignated account/mechanism.  The benefit shall be transferred by\nGovernment of India to the beneficiaries through a mechanism wherein\ndistrict wise beneficiaries’ lists shall be certified and uploaded by the\nStates/UTs and the funds will be electronically transferred via State Notional\nAccount [similar to Mahatma Gandhi National Rural Employment Guarantee\nScheme (MNREGS)] to the beneficiaries’ bank account on the basis of their\naccount numbers and IFSC code. However, where the states verify that\nAadhaar linked accounts are not the loan accounts of beneficiaries, the\nAadhaar linked payment system can be adopted. For ease of implementation\nthe States may consider assigning the job of sponsoring bank for the\nscheme to the same bank being used by concerned State for MGNREGS.”"
+        }
+    ]
+}

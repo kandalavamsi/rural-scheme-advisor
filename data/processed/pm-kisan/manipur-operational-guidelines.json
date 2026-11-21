@@ -1,0 +1,45 @@
+{
+    "source_id": 10,
+    "source_file": "manipur-operational-guidelines.pdf",
+    "source_relative_path": "state-specific/manipur-operational-guidelines.pdf",
+    "source_metadata": {
+        "source_id": 10,
+        "title": "Addendum for Manipur",
+        "publisher": "Department of Agriculture and Farmers Welfare",
+        "source_url": "https://pmkisan.gov.in/Documents/OperationalGuidelinesManipur.pdf",
+        "local_filename": "manipur-operational-guidelines.pdf",
+        "local_relative_path": "state-specific/manipur-operational-guidelines.pdf",
+        "document_scope": "state-specific",
+        "jurisdiction": "Manipur",
+        "document_date": null,
+        "document_reference_date": null,
+        "publication_date": null,
+        "affected_clauses": [
+            "3.5.1"
+        ],
+        "metadata_status": "Content inspected; Manipur-specific; do not apply nationally"
+    },
+    "document_scope": "state-specific",
+    "jurisdiction": "Manipur",
+    "total_pages": 1,
+    "pdf_metadata": {
+        "format": "PDF 1.5",
+        "title": "",
+        "author": "Sudhir",
+        "subject": "",
+        "keywords": "",
+        "creator": "Microsoft® Office Word 2007",
+        "producer": "Microsoft® Office Word 2007",
+        "creationDate": "D:20190307112243",
+        "modDate": "D:20190307112243",
+        "trapped": "",
+        "encryption": null
+    },
+    "pages": [
+        {
+            "page_number": 1,
+            "raw_text": "ADDENDUM TO THE OPERATIONAL GUIDELINES – INSERTION OF NEW \nPARA 3.5.1 IN RESPECT OF THE STATE OF MANIPUR \n \nThe following new Para 3.5.1 has been appended in the Operational \nGuidelines of PM-Kisan Scheme in respect of issues relating to \ncommunity-held land in the State of Manipur: \n \n \n“3.5.1 Manipur: The certificate issued by the Village authority, namely, \nthe Chairman/Chief, authorizing any tribal family to cultivate a piece of \nland, may be accepted. Such certification of village Chairman/Chief \nshall be authenticated by the concerned sub-divisional officers. All the \nexclusions under the Operational Guidelines will be applicable.” \n \n",
+            "cleaned_text": "ADDENDUM TO THE OPERATIONAL GUIDELINES – INSERTION OF NEW\nPARA 3.5.1 IN RESPECT OF THE STATE OF MANIPUR\n\nThe following new Para 3.5.1 has been appended in the Operational\nGuidelines of PM-Kisan Scheme in respect of issues relating to\ncommunity-held land in the State of Manipur:\n\n“3.5.1 Manipur: The certificate issued by the Village authority, namely,\nthe Chairman/Chief, authorizing any tribal family to cultivate a piece of\nland, may be accepted. Such certification of village Chairman/Chief\nshall be authenticated by the concerned sub-divisional officers. All the\nexclusions under the Operational Guidelines will be applicable.”"
+        }
+    ]
+}

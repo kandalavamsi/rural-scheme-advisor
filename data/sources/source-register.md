@@ -15,7 +15,7 @@
 - Document date: Revised as on 29 March 2020
 - Source type: Official government PDF
 - Intended use: Eligibility, exclusions, land ownership and implementation rules
--- Status: Historical official version - must be read alongside subsequent amendments and clarifications
+- Status: Historical official version - must be read alongside subsequent amendments and clarifications
 ## Source 3: PIB Eligibility Release
 
 - Publisher: Ministry of Agriculture and Farmers Welfare / Press Information Bureau
@@ -47,6 +47,7 @@
 - Source type: Official government PDF
 - Intended use: Clarifications concerning land ownership changes and succession
 - Status: Historical clarification - applicability must be checked against later documents
+- Local filename: clarification-clauses-3-3-3-4.pdf
 
 ## Source 7: Verification under PM-KISAN
 
@@ -60,7 +61,7 @@
 ## Source 8: Amendment to Paragraph 8.1 of Operational Guidelines
 
 - Publisher: Department of Agriculture and Farmers Welfare
-- URL: https://pmkisan.gov.in/Documents/AmendmenttoOG.pdf
+- URL: https://fw.pmkisan.gov.in/Documents/Amendment%20to%20OG-converted.pdf
 - Local filename: amendment-operational-guidelines.pdf
 - Document reference date: 11 March 2019
 - Publication date: Not stated in document
@@ -75,7 +76,7 @@
 
 - Publisher: Department of Agriculture and Farmers Welfare
 - URL: https://pmkisan.gov.in/Documents/clarification_on_OGs_of_PMKISAN.pdf
-- Local filename: clarification-operational-guidelines.pdf
+- Local filename: clarification-joint-holding.pdf
 - Publication date: Not stated in document
 - Pages: 1
 - Source type: Official government PDF
